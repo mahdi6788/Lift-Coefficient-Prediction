@@ -14,6 +14,7 @@ for i in range(1,101):
     x_new.append(x)
 
 ## Generating y-coordinates
+# Airfoils from UIUC Airfoil Data Site
 airfoils_list = ["naca0010", "naca0015", "naca0018", "naca0021", "naca0024", "naca000834", "naca001034", "naca001035",
                  "naca001064", "naca001065", "naca001066", "naca001234", "naca001264"]
 
